@@ -8,7 +8,7 @@ export default function Form({ onAddActivity }) {
     const data = Object.fromEntries(formData);
     // const activityName = data.name;
     // const goodWeathercheckBox = data.good_weather.checked;
-    onAddActivity({ data });
+    onAddActivity(data );
 
     event.target.reset();
     event.target.elements.name.focus();
