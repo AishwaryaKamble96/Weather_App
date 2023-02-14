@@ -1,5 +1,5 @@
-.weather-form{
- 
-    display: flex;
-    justify-content: center;
+.weather-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
