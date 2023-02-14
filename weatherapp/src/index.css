@@ -1,3 +1,17 @@
-.weather-form{
-    background-color: red;
+.listOfActivities{
+    list-style: none;
+    padding: 20px;
+}
+
+
+.activities-list_name{
+    background: rgb(194, 191, 191);
+    text-transform: uppercase;
+    
+    
+}
+
+.close_btn {
+    display: flex;
+  
 }

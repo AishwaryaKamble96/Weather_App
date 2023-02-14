@@ -12,3 +12,12 @@ label{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
 }
+
+input {
+    height: 30px;
+}
+
+button{
+    height: 30px;
+}
+
